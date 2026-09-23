@@ -6,7 +6,7 @@ export default {
         {
           id: "p1",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Books_HD_%288314929977%29.jpg/640px-Books_HD_%288314929977%29.jpg",
+            "https://img.magnific.com/free-vector/books-stack-realistic_1284-4735.jpg",
           title: "Book Collection",
           description:
             "A collection of must-read books. All-time classics included!",
@@ -15,7 +15,7 @@ export default {
         {
           id: "p2",
           image:
-            "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Tent_at_High_Shelf_Camp_cropped.jpg/640px-Tent_at_High_Shelf_Camp_cropped.jpg",
+            "https://img.magnific.com/free-photo/full-shot-smiley-woman-pouring-water_23-2149517910.jpg",
           title: "Mountain Tent",
           description: "A tent for the ambitious outdoor tourist.",
           price: 129.99,
@@ -23,7 +23,7 @@ export default {
         {
           id: "p3",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/640px-Good_Food_Display_-_NCI_Visuals_Online.jpg",
+            "https://img.magnific.com/premium-psd/kraft-paper-food-box-mockup-branding-packaging-design_1514366-543.jpg",
           title: "Food Box",
           description:
             "May be partially expired when it arrives but at least it is cheap!",
