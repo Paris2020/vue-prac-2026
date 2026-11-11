@@ -8,7 +8,8 @@
         :key="area"
         :type="area"
         :title="area"
-      ></base-badge>
+        >{{ area }}</base-badge
+      >
     </div>
     <div class="actions">
       <base-button mode="outline" :to="coachContactLink">Contact</base-button>
